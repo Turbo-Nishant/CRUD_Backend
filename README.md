@@ -3,4 +3,4 @@
 ![REST API](https://i.ibb.co/7GWCCbp/Screenshot-2020-07-12-at-08-30-32.png)
 
 ## Introduction
-In this video, we will create a Node JS and Express JS CRUD REST API.
+Create a Node JS and Express JS CRUD REST API.
